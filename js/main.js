@@ -33,7 +33,7 @@ var writeBerryInfo = function (berry) {
     document.write('<dd>' + berry.carbohydratesInG+ '</dd>');
     document.write('<dt>Carbs in g</dt>');
     document.write('<dd>' + berry.proteinInG+ '</dd>');
-    document.write('<dt>Protein in </dt>');
+    document.write('<dt>Protein in g</dt>');
     document.write('</dl>');
 };
 
